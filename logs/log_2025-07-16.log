@@ -1,0 +1,18 @@
+2025-07-16 06:26:49,647 - INFO - starting backend service..
+2025-07-16 06:26:51,649 - INFO - Starting Frontend service
+2025-07-16 16:33:35,735 - INFO - starting backend service..
+2025-07-16 16:33:37,739 - INFO - Starting Frontend service
+2025-07-16 16:34:35,899 - INFO - Sending requests to backend
+2025-07-16 16:34:35,933 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-16 16:34:35,933 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical ai agent specialized in cancer' messages=['how cancer can be cured?'] allow_search=True
+2025-07-16 16:34:35,934 - INFO - model: llama-3.3-70b-versatile
+2025-07-16 16:34:35,934 - INFO - messages: ['how cancer can be cured?']
+2025-07-16 16:34:35,934 - INFO - system_prompt: Hi I am medical ai agent specialized in cancer
+2025-07-16 16:34:35,935 - INFO - allow_search: True
+2025-07-16 16:34:38,589 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 16:34:42,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-16 16:34:42,085 - INFO - successfully got response from AI agent llama-3.3-70b-versatile
+2025-07-16 16:34:42,085 - INFO - \U0001f4e1 Status Code: 200
+2025-07-16 16:34:42,085 - INFO - \U0001f4e8 Raw Response: {"response":"Cancer can be cured through various treatment options, including surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy. The choice of treatment depends on the type and stage of cancer, as well as the individual's overall health. In some cases, a single treatment may be enough to cure the cancer, while in other cases, a combination of treatments may be necessary. It's important to note that cancer treatment is often a long-term process, and it may involve multiple treatment sessions and recovery periods."}
+2025-07-16 16:34:42,085 - INFO - Sucessfully received respobse from backend
+2025-07-16 16:34:42,085 - INFO - agent_response = Cancer can be cured through various treatment options, including surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy. The choice of treatment depends on the type and stage of cancer, as well as the individual's overall health. In some cases, a single treatment may be enough to cure the cancer, while in other cases, a combination of treatments may be necessary. It's important to note that cancer treatment is often a long-term process, and it may involve multiple treatment sessions and recovery periods.

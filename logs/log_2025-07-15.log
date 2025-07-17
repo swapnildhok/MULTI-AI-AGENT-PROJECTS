@@ -1,0 +1,328 @@
+2025-07-15 15:10:13,614 - INFO - starting backend services...
+2025-07-15 15:10:15,625 - INFO - starting frontend services...
+2025-07-15 15:11:30,330 - INFO - starting backend services...
+2025-07-15 15:11:32,331 - INFO - starting frontend services...
+2025-07-15 15:14:06,812 - INFO - starting backend services...
+2025-07-15 15:14:08,813 - INFO - starting frontend services...
+2025-07-15 15:15:03,956 - INFO - Sending requests to backend
+2025-07-15 15:15:03,999 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 15:15:05,979 - ERROR - some error occured during response generation
+2025-07-15 15:15:06,070 - ERROR - Backend Error
+2025-07-15 15:18:29,028 - INFO - starting backend services...
+2025-07-15 15:18:31,038 - INFO - starting frontend services...
+2025-07-15 15:19:09,968 - INFO - Sending requests to backend
+2025-07-15 15:19:10,002 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 15:19:11,265 - ERROR - some error occured during response generation
+2025-07-15 15:19:11,265 - ERROR - Backend Error
+2025-07-15 15:22:51,932 - INFO - Sending requests to backend
+2025-07-15 15:22:51,932 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 15:22:53,050 - ERROR - some error occured during response generation
+2025-07-15 15:22:53,050 - ERROR - Backend Error
+2025-07-15 15:25:24,267 - INFO - Sending requests to backend
+2025-07-15 15:25:24,267 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 15:25:25,316 - ERROR - some error occured during response generation
+2025-07-15 15:25:25,316 - ERROR - Backend Error
+2025-07-15 15:32:53,912 - INFO - starting backend services...
+2025-07-15 15:32:55,913 - INFO - starting frontend services...
+2025-07-15 15:33:24,466 - INFO - Sending requests to backend
+2025-07-15 15:33:24,503 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 15:33:25,938 - ERROR - some error occured during response generation
+2025-07-15 15:33:25,938 - ERROR - Backend Error
+2025-07-15 15:49:27,349 - INFO - starting backend services...
+2025-07-15 15:49:29,354 - INFO - starting frontend services...
+2025-07-15 15:49:59,850 - INFO - Sending requests to backend
+2025-07-15 15:50:01,899 - ERROR - Error occured while sending request yo backend
+2025-07-15 15:52:35,584 - INFO - Sending requests to backend
+2025-07-15 15:52:37,629 - ERROR - Error occured while sending request yo backend
+2025-07-15 15:53:21,785 - INFO - Sending requests to backend
+2025-07-15 15:53:23,846 - ERROR - Error occured while sending request yo backend
+2025-07-15 16:00:29,319 - INFO - starting backend service..
+2025-07-15 16:00:31,335 - INFO - Starting Frontend service
+2025-07-15 16:01:05,701 - INFO - Sending requests to backend
+2025-07-15 16:01:05,737 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 16:01:07,083 - ERROR - some error occured during response generation
+2025-07-15 16:01:07,099 - ERROR - Backend Error
+2025-07-15 17:09:37,018 - INFO - Sending requests to backend
+2025-07-15 17:09:37,209 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:09:38,499 - ERROR - some error occured during response generation
+2025-07-15 17:09:38,532 - ERROR - Backend Error
+2025-07-15 17:10:55,984 - INFO - starting backend service..
+2025-07-15 17:10:57,985 - INFO - Starting Frontend service
+2025-07-15 17:11:17,068 - INFO - Sending requests to backend
+2025-07-15 17:11:17,090 - ERROR - Backend Error
+2025-07-15 17:12:21,818 - INFO - Sending requests to backend
+2025-07-15 17:12:21,826 - ERROR - Backend Error
+2025-07-15 17:13:59,084 - INFO - Sending requests to backend
+2025-07-15 17:13:59,096 - ERROR - Backend Error
+2025-07-15 17:14:00,675 - INFO - Sending requests to backend
+2025-07-15 17:14:00,691 - ERROR - Backend Error
+2025-07-15 17:14:41,852 - INFO - starting backend service..
+2025-07-15 17:14:43,867 - INFO - Starting Frontend service
+2025-07-15 17:15:11,068 - INFO - Sending requests to backend
+2025-07-15 17:15:11,090 - ERROR - Backend Error
+2025-07-15 17:23:30,938 - INFO - starting backend service..
+2025-07-15 17:23:32,939 - INFO - Starting Frontend service
+2025-07-15 17:23:54,534 - INFO - Sending requests to backend
+2025-07-15 17:23:54,579 - INFO - Request received for model : llama3-70b-8192
+2025-07-15 17:23:56,358 - ERROR - some error occured during response generation
+2025-07-15 17:23:56,358 - ERROR - Backend Error
+2025-07-15 17:31:11,413 - INFO - starting backend service..
+2025-07-15 17:31:13,421 - INFO - Starting Frontend service
+2025-07-15 17:31:39,851 - INFO - Sending requests to backend
+2025-07-15 17:31:39,886 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:31:39,886 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='I am medical ai agent' messages=['can cancer be cured?\n'] allow_search=True
+2025-07-15 17:31:39,886 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:31:39,886 - INFO - messages: ['can cancer be cured?\n']
+2025-07-15 17:31:39,886 - INFO - system_prompt: I am medical ai agent
+2025-07-15 17:31:39,886 - INFO - allow_search: True
+2025-07-15 17:31:41,212 - ERROR - Exception: create_react_agent() got an unexpected keyword argument 'state_modifier'
+2025-07-15 17:31:41,212 - ERROR - Traceback (most recent call last):
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\backend\api.py", line 36, in chat_endpoint
+    response=get_response_from_ai_agents(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\core\ai_agent.py", line 13, in get_response_from_ai_agents
+    agent=create_react_agent(
+          ^^^^^^^^^^^^^^^^^^^
+TypeError: create_react_agent() got an unexpected keyword argument 'state_modifier'
+
+2025-07-15 17:31:41,212 - ERROR - Backend Error
+2025-07-15 17:37:34,012 - INFO - starting backend service..
+2025-07-15 17:37:36,013 - INFO - Starting Frontend service
+2025-07-15 17:37:58,084 - INFO - Sending requests to backend
+2025-07-15 17:37:58,118 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:37:58,118 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical ai agent' messages=['can cancer be cured?'] allow_search=True
+2025-07-15 17:37:58,118 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:37:58,118 - INFO - messages: ['can cancer be cured?']
+2025-07-15 17:37:58,118 - INFO - system_prompt: Hi I am medical ai agent
+2025-07-15 17:37:58,118 - INFO - allow_search: True
+2025-07-15 17:37:59,578 - ERROR - Exception: Completions.create() got an unexpected keyword argument 'system_message'
+2025-07-15 17:37:59,636 - ERROR - Traceback (most recent call last):
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\backend\api.py", line 36, in chat_endpoint
+    response=get_response_from_ai_agents(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\core\ai_agent.py", line 22, in get_response_from_ai_agents
+    response = agent.invoke(state)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\__init__.py", line 2844, in invoke
+    for chunk in self.stream(
+                 ^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\__init__.py", line 2534, in stream
+    for _ in runner.tick(
+             ^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\runner.py", line 162, in tick
+    run_with_retry(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\utils\runnable.py", line 623, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\utils\runnable.py", line 370, in invoke
+    ret = context.run(self.func, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\prebuilt\chat_agent_executor.py", line 507, in call_model
+    response = cast(AIMessage, model_runnable.invoke(state, config))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\runnables\base.py", line 5431, in invoke
+    return self.bound.invoke(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_groq\chat_models.py", line 557, in _generate
+    response = self.client.create(messages=message_dicts, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Completions.create() got an unexpected keyword argument 'system_message'
+During task with name 'agent' and id '6daf0a5b-7d3e-aa9a-1691-e4543dacd538'
+
+2025-07-15 17:37:59,639 - ERROR - Backend Error
+2025-07-15 17:39:39,120 - INFO - Sending requests to backend
+2025-07-15 17:39:39,120 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:39:39,120 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical ai agent' messages=['can cancer be cured?'] allow_search=True
+2025-07-15 17:39:39,120 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:39:39,120 - INFO - messages: ['can cancer be cured?']
+2025-07-15 17:39:39,120 - INFO - system_prompt: Hi I am medical ai agent
+2025-07-15 17:39:39,132 - INFO - allow_search: True
+2025-07-15 17:39:40,333 - ERROR - Exception: Completions.create() got an unexpected keyword argument 'system_message'
+2025-07-15 17:39:40,350 - ERROR - Traceback (most recent call last):
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\backend\api.py", line 36, in chat_endpoint
+    response=get_response_from_ai_agents(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\core\ai_agent.py", line 22, in get_response_from_ai_agents
+    response = agent.invoke(state)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\__init__.py", line 2844, in invoke
+    for chunk in self.stream(
+                 ^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\__init__.py", line 2534, in stream
+    for _ in runner.tick(
+             ^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\runner.py", line 162, in tick
+    run_with_retry(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\utils\runnable.py", line 623, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\utils\runnable.py", line 370, in invoke
+    ret = context.run(self.func, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\prebuilt\chat_agent_executor.py", line 507, in call_model
+    response = cast(AIMessage, model_runnable.invoke(state, config))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\runnables\base.py", line 5431, in invoke
+    return self.bound.invoke(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_groq\chat_models.py", line 557, in _generate
+    response = self.client.create(messages=message_dicts, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Completions.create() got an unexpected keyword argument 'system_message'
+During task with name 'agent' and id '32f36ab4-1f21-e1ea-9bf4-32ab41a2e56f'
+
+2025-07-15 17:39:40,350 - ERROR - Backend Error
+2025-07-15 17:40:23,625 - INFO - starting backend service..
+2025-07-15 17:40:25,641 - INFO - Starting Frontend service
+2025-07-15 17:40:47,634 - INFO - Sending requests to backend
+2025-07-15 17:40:47,667 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:40:47,667 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical ai agent' messages=['can cancer be cured?'] allow_search=True
+2025-07-15 17:40:47,667 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:40:47,667 - INFO - messages: ['can cancer be cured?']
+2025-07-15 17:40:47,668 - INFO - system_prompt: Hi I am medical ai agent
+2025-07-15 17:40:47,668 - INFO - allow_search: True
+2025-07-15 17:40:49,010 - ERROR - Exception: Completions.create() got an unexpected keyword argument 'system_message'
+2025-07-15 17:40:49,010 - ERROR - Traceback (most recent call last):
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\backend\api.py", line 36, in chat_endpoint
+    response=get_response_from_ai_agents(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS LLMOPS\MULTI-AI AGENT\app\core\ai_agent.py", line 22, in get_response_from_ai_agents
+    response = agent.invoke(state)
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\__init__.py", line 2844, in invoke
+    for chunk in self.stream(
+                 ^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\__init__.py", line 2534, in stream
+    for _ in runner.tick(
+             ^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\runner.py", line 162, in tick
+    run_with_retry(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\pregel\retry.py", line 42, in run_with_retry
+    return task.proc.invoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\utils\runnable.py", line 623, in invoke
+    input = context.run(step.invoke, input, config, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\utils\runnable.py", line 370, in invoke
+    ret = context.run(self.func, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langgraph\prebuilt\chat_agent_executor.py", line 507, in call_model
+    response = cast(AIMessage, model_runnable.invoke(state, config))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\runnables\base.py", line 3047, in invoke
+    input_ = context.run(step.invoke, input_, config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\runnables\base.py", line 5431, in invoke
+    return self.bound.invoke(
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 378, in invoke
+    self.generate_prompt(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 963, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\Swapnil\anaconda3\Lib\site-packages\langchain_groq\chat_models.py", line 557, in _generate
+    response = self.client.create(messages=message_dicts, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Completions.create() got an unexpected keyword argument 'system_message'
+During task with name 'agent' and id '37991c7d-2445-993d-6dd2-60ee3254c3f7'
+
+2025-07-15 17:40:49,026 - ERROR - Backend Error
+2025-07-15 17:45:46,278 - INFO - starting backend service..
+2025-07-15 17:45:48,281 - INFO - Starting Frontend service
+2025-07-15 17:46:09,900 - INFO - Sending requests to backend
+2025-07-15 17:46:09,935 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:46:09,935 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical ai agnet' messages=['can cancer be cured?'] allow_search=True
+2025-07-15 17:46:09,935 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:46:09,935 - INFO - messages: ['can cancer be cured?']
+2025-07-15 17:46:09,935 - INFO - system_prompt: Hi I am medical ai agnet
+2025-07-15 17:46:09,935 - INFO - allow_search: True
+2025-07-15 17:46:11,832 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:46:15,960 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:46:15,975 - INFO - successfully got response from AI agent llama-3.3-70b-versatile
+2025-07-15 17:46:15,975 - INFO - Sucessfully received respobse from backend
+2025-07-15 17:46:15,975 - ERROR - Error occured while sending request yo backend
+2025-07-15 17:54:11,461 - INFO - starting backend service..
+2025-07-15 17:54:13,476 - INFO - Starting Frontend service
+2025-07-15 17:54:39,618 - INFO - Sending requests to backend
+2025-07-15 17:54:39,651 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:54:39,651 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical aiagent specialized in cancer' messages=['can cancer be cured?'] allow_search=True
+2025-07-15 17:54:39,651 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:54:39,651 - INFO - messages: ['can cancer be cured?']
+2025-07-15 17:54:39,651 - INFO - system_prompt: Hi I am medical aiagent specialized in cancer
+2025-07-15 17:54:39,651 - INFO - allow_search: True
+2025-07-15 17:54:41,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:54:44,421 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:54:44,424 - INFO - successfully got response from AI agent llama-3.3-70b-versatile
+2025-07-15 17:54:44,427 - INFO - \U0001f4e1 Status Code: 200
+2025-07-15 17:54:44,428 - INFO - \U0001f4e8 Raw Response: {"response":{"name_of_model":"llama-3.3-70b-versatile","system_prompt":"Hi I am medical aiagent specialized in cancer","messages":["can cancer be cured?"],"allow_search":true}}
+2025-07-15 17:54:44,429 - INFO - Sucessfully received respobse from backend
+2025-07-15 17:54:44,429 - INFO - agent_response = {'name_of_model': 'llama-3.3-70b-versatile', 'system_prompt': 'Hi I am medical aiagent specialized in cancer', 'messages': ['can cancer be cured?'], 'allow_search': True}
+2025-07-15 17:54:44,430 - ERROR - Error occured while sending request yo backend
+2025-07-15 17:54:44,430 - ERROR - 'dict' object has no attribute 'replace'
+2025-07-15 17:58:30,663 - INFO - starting backend service..
+2025-07-15 17:58:32,666 - INFO - Starting Frontend service
+2025-07-15 17:59:03,268 - INFO - Sending requests to backend
+2025-07-15 17:59:03,302 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 17:59:03,302 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am medical ai agent specialized in cancer' messages=['can cancer be cured?'] allow_search=True
+2025-07-15 17:59:03,302 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 17:59:03,302 - INFO - messages: ['can cancer be cured?']
+2025-07-15 17:59:03,302 - INFO - system_prompt: Hi I am medical ai agent specialized in cancer
+2025-07-15 17:59:03,302 - INFO - allow_search: True
+2025-07-15 17:59:05,162 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:59:07,848 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:59:07,848 - INFO - successfully got response from AI agent llama-3.3-70b-versatile
+2025-07-15 17:59:07,864 - INFO - \U0001f4e1 Status Code: 200
+2025-07-15 17:59:07,864 - INFO - \U0001f4e8 Raw Response: {"response":"Cancer is a complex and difficult disease to cure, with over 200 different types, each with its own unique challenges. While there have been significant advances in cancer research and treatment, a single cure for all types of cancer does not yet exist. However, thanks to ongoing research and the development of new treatments, cancer survival rates are rising, and many people are being cured of their disease. It's estimated that half of all people diagnosed with cancer in the UK in 2019 will survive their disease for 10 years or longer."}
+2025-07-15 17:59:07,864 - INFO - Sucessfully received respobse from backend
+2025-07-15 17:59:07,864 - INFO - agent_response = Cancer is a complex and difficult disease to cure, with over 200 different types, each with its own unique challenges. While there have been significant advances in cancer research and treatment, a single cure for all types of cancer does not yet exist. However, thanks to ongoing research and the development of new treatments, cancer survival rates are rising, and many people are being cured of their disease. It's estimated that half of all people diagnosed with cancer in the UK in 2019 will survive their disease for 10 years or longer.
+2025-07-15 18:52:10,495 - INFO - Sending requests to backend
+2025-07-15 18:52:10,501 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-15 18:52:10,501 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi I am finanancial ai agent.' messages=['How to do stock trading?'] allow_search=True
+2025-07-15 18:52:10,501 - INFO - model: llama-3.3-70b-versatile
+2025-07-15 18:52:10,501 - INFO - messages: ['How to do stock trading?']
+2025-07-15 18:52:10,501 - INFO - system_prompt: Hi I am finanancial ai agent.
+2025-07-15 18:52:10,501 - INFO - allow_search: True
+2025-07-15 18:52:12,075 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:52:16,382 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 18:52:16,384 - INFO - successfully got response from AI agent llama-3.3-70b-versatile
+2025-07-15 18:52:16,386 - INFO - \U0001f4e1 Status Code: 200
+2025-07-15 18:52:16,386 - INFO - \U0001f4e8 Raw Response: {"response":"Stock trading involves buying and selling stocks, which are ownership shares in companies, with the goal of making a profit. To start stock trading, you'll need to open a brokerage account, fund it, and then place orders to buy or sell stocks through the account. It's essential to educate yourself on the basics of stock trading, including different types of orders, risk management, and market analysis. You can find more information and guides on stock trading through online resources such as Investopedia."}
+2025-07-15 18:52:16,389 - INFO - Sucessfully received respobse from backend
+2025-07-15 18:52:16,389 - INFO - agent_response = Stock trading involves buying and selling stocks, which are ownership shares in companies, with the goal of making a profit. To start stock trading, you'll need to open a brokerage account, fund it, and then place orders to buy or sell stocks through the account. It's essential to educate yourself on the basics of stock trading, including different types of orders, risk management, and market analysis. You can find more information and guides on stock trading through online resources such as Investopedia.
