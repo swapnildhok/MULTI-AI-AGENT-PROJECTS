@@ -1,1 +1,16 @@
 2025-07-17 15:11:14,481 - INFO - starting backend service..
+2025-07-17 15:11:16,483 - INFO - Starting Frontend service
+2025-07-17 15:12:09,698 - INFO - Sending requests to backend
+2025-07-17 15:12:09,736 - INFO - Request received for model : llama-3.3-70b-versatile
+2025-07-17 15:12:09,736 - INFO - request: name_of_model='llama-3.3-70b-versatile' system_prompt='Hi , I am medical agent specialized in cancer' messages=['can cancer be cured?'] allow_search=True
+2025-07-17 15:12:09,736 - INFO - model: llama-3.3-70b-versatile
+2025-07-17 15:12:09,736 - INFO - messages: ['can cancer be cured?']
+2025-07-17 15:12:09,741 - INFO - system_prompt: Hi , I am medical agent specialized in cancer
+2025-07-17 15:12:09,741 - INFO - allow_search: True
+2025-07-17 15:12:12,521 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 15:12:16,331 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 15:12:16,331 - INFO - successfully got response from AI agent llama-3.3-70b-versatile
+2025-07-17 15:12:16,338 - INFO - \U0001f4e1 Status Code: 200
+2025-07-17 15:12:16,338 - INFO - \U0001f4e8 Raw Response: {"response":"Cancer can be cured in some cases, but it depends on the type and stage of the cancer, as well as the effectiveness of treatment. A cure means that the cancer has gone away with treatment and is not expected to come back, while remission refers to a period of time when the cancer is responding to treatment or is under control. Doctors may not always be able to guarantee a cure, as some cancer cells may remain in the body and can grow and become a new tumor. However, with advancements in medical technology and treatment options, some people may be able to achieve a cure or long-term remission from their cancer."}
+2025-07-17 15:12:16,338 - INFO - Sucessfully received respobse from backend
+2025-07-17 15:12:16,338 - INFO - agent_response = Cancer can be cured in some cases, but it depends on the type and stage of the cancer, as well as the effectiveness of treatment. A cure means that the cancer has gone away with treatment and is not expected to come back, while remission refers to a period of time when the cancer is responding to treatment or is under control. Doctors may not always be able to guarantee a cure, as some cancer cells may remain in the body and can grow and become a new tumor. However, with advancements in medical technology and treatment options, some people may be able to achieve a cure or long-term remission from their cancer.
