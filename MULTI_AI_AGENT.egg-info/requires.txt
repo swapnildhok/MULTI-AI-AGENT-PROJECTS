@@ -1,9 +1,0 @@
-langchain-groq
-langchain_community
-python-dotenv
-uvicorn
-fastapi
-pydantic
-langgraph
-streamlit
-langchain_tavily
