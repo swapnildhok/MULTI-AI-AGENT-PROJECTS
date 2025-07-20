@@ -60,8 +60,8 @@ pipeline{
             script {
                 sh """
                 aws ecs update-service \
-                  --cluster multi-ai-agent-cluster_1 \
-                  --service multi-ai-agent-def-service-d7c0vywk  \
+                  --cluster multi-ai-agent-cluster-1 \
+                  --service llmops-ai-agent-def-service-1j2wc7vn  \
                   --force-new-deployment \
                   --region ${AWS_REGION}
                 """
