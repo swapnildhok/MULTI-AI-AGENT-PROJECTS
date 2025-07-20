@@ -8,7 +8,7 @@ from app.common.custom_exception import CustomException
 logger=get_logger(__name__)
 
 st.set_page_config(page_title="Multi AI agent",layout='centered')
-st.title("Multi AI agenty using Groq and Tavily")
+st.title("Multi AI agenty using Groq and Tavily New")
 
 system_prompt=st.text_area("Define you AI agent: ",height=70)
 selected_model=st.selectbox("Select yout AI model: ",settings.ALLOWED_MODEL_NAMES)
