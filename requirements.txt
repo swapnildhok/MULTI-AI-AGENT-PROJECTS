@@ -7,3 +7,4 @@ pydantic
 langgraph
 streamlit
 langchain_tavily
+langchain_community
