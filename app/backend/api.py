@@ -19,7 +19,7 @@ class ResponseState(BaseModel):
     allow_response: bool
 
     
-class RequestState(BaseModel):
+class RequestState_1(BaseModel):
     name_of_model:str
     system_prompt:str
     messages:List[str]
