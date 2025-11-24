@@ -18,6 +18,15 @@ class ResponseState(BaseModel):
     allow_search: bool
     allow_response: bool
 
+    
+class RequestState(BaseModel):
+    name_of_model:str
+    system_prompt:str
+    messages:List[str]
+    allow_search: bool
+    allow_response: bool
+    allow_request: bool
+
 @app.post("/chat")
 
 def chat_endpoint(request:RequestState):
