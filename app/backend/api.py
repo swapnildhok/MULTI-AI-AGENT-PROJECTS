@@ -11,7 +11,7 @@ logger=get_logger(__name__)
 
 app=FastAPI(title='Multi AI AGENT')
 
-class ResponseState(BaseModel):
+class ResponseState_1(BaseModel):
     name_of_model:str
     system_prompt:str
     messages:List[str]
