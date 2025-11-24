@@ -11,11 +11,12 @@ logger=get_logger(__name__)
 
 app=FastAPI(title='Multi AI AGENT')
 
-class RequestState(BaseModel):
+class ResponseState(BaseModel):
     name_of_model:str
     system_prompt:str
     messages:List[str]
     allow_search: bool
+    custom_exception: bool
 
 @app.post("/chat")
 
